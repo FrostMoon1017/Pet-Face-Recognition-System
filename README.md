@@ -12,7 +12,7 @@ Exporting detect/segment model with optimization for RKNN, please refer here [RE
       <img width="850" src="https://raw.githubusercontent.com/ultralytics/assets/master/yolov5/v70/splash.png"></a>
   </p>
 
-  English | [简体中文](.github/README_CN.md)
+  English | [简体中文](./README_CN.md)
   <br>
   <div>
     <a href="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml"><img src="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml/badge.svg" alt="YOLOv5 CI"></a>
